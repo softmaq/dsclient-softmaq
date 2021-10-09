@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Superman','11111111111',10000.0,TIMESTAMP WITH TIME ZONE '1932-02-29T00:00:01.12345Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Batman','22222222222',8000.0,TIMESTAMP WITH TIME ZONE '1915-04-17T00:00:01.12345Z',7);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Spiderman','33333333333',5000.0,TIMESTAMP WITH TIME ZONE '1962-08-01T00:00:01.12345Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Wonder Woman','44444444444',10000.0,TIMESTAMP WITH TIME ZONE '1941-01-01T00:00:01.12345Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Captain America','55555555555',9000.0,TIMESTAMP WITH TIME ZONE '1918-07-04T00:00:01.12345Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Iron Man','66666666666',9000.0,TIMESTAMP WITH TIME ZONE '1970-05-26T00:00:01.12345Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Hulk','77777777777',10000.0,TIMESTAMP WITH TIME ZONE '1962-05-01T00:00:01.12345Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Wolverine','88888888888',7000.0,TIMESTAMP WITH TIME ZONE '1882-10-01T00:00:01.12345Z',7);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('The Flash','99999999999',6000.0,TIMESTAMP WITH TIME ZONE '1940-03-14T00:00:01.12345Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date,children) VALUES ('Thor','10101010101',10000.0,TIMESTAMP WITH TIME ZONE '01-01-01T00:00:01.12345Z',0);
